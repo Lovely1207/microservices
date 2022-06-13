@@ -1,0 +1,30 @@
+Mirosecices:chassis pattern
+
+parent class files in derived class
+
+http://httpbin.org/
+
+http://localhost:8765/product-catalog/products
+
+
+<spring-cloud.version>2020.0.5</spring-cloud.version> 
+
+<spring-cloud.version>2021.0.0</spring-cloud.version>
+
+2.6.6  -> 2020.0.5/2021.0.0
+
+http://localhost:8765/currency-conversion-feign/from/INR/to/USD/quantity/10
+
+https://github.com/in28minutes/course-material/blob/main/01-spring-microservices/v2/downloads.md
+
+-Dserver.port=8001
+
+curl -sSL https://zipkin.io/quickstart.sh | bash -s
+java -jar zipkin.jar
+
+
+set RABBIT_URI=amqp://localhost
+java -jar zipkin-server-2.7.0-exec.jar
+
+https://www.drawasaurus.org/
+
